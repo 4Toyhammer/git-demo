@@ -1,11 +1,7 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 Orange fur 
 has small fox
 =======
 Orange fur!!!
 Small fox is here
 >>>>>>> 60a4f29cc5d50135affc9807f803d0f1033c8ab9
-=======
-Orange fur
->>>>>>> parent of 3da8c7b (Add new symbols)
